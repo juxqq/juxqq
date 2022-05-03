@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juxqq&label=Profile%20views&color=0e75b6&style=flat" alt="juxqq" /> </p>
 
-- 📫 How to reach me **contact@enzo-tremblay.fr**
+<h3 align="left">About me:</h3>
+- 👁️ &nbsp; I like computer science, video games and sport such as fitness.
+- 🎓 &nbsp; EPSI Montpellier Student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
