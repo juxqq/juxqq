@@ -5,8 +5,8 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-- 👁️ &nbsp; I like computer science, video games and sport such as fitness.
-- 🎓 &nbsp; EPSI Montpellier Student./></a>
+&nbsp; - 👁️ I like computer science, video games and sport such as fitness.
+&nbsp; - 🎓 EPSI Montpellier Student.
 </p>
 
 <h3 align="left">Connect with me:</h3>
