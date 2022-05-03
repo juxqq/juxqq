@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Enzo Tremblay</h1>
+<h1 align="center">Hi, I'm Enzo Tremblay💻</h1>
 <h2 align="center">🚨 I am currently looking for an apprenticeship as a fullstack/software developper, contact me if my profile interests you 🚨</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juxqq&label=Profile%20views&color=0e75b6&style=flat" alt="juxqq" /> </p>
