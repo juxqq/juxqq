@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enzo-tremblay%f0%9f%92%bb-9b67821b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enzo-tremblay%f0%9f%92%bb-9b67821b8/" height="30" width="40" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/enzo-tremblay%F0%9F%92%BB-9b67821b8/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/linkedin.png" width="40" /></a>
+&nbsp; <a href="mailto:contact@enzo-tremblay.fr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/apple-mail.png"  width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
