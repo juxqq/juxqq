@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/enzo-tremblay%F0%9F%92%BB-9b67821b8/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" /></a>
-&nbsp; <a href="mailto:contact@enzo-tremblay.fr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/344/apple-mail.png"  width="40" /></a>
+&nbsp; <a href="mailto:contact@enzo-tremblay.fr" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png"  width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
