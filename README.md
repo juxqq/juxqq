@@ -7,6 +7,7 @@
 <p align="left">
 &nbsp; - 👁️ I like computer science, video games and sport such as fitness
 &nbsp; - 🎓 EPSI Montpellier Student
+&nbsp; - 🚀 Aim to be Software/Full Stack Developper or DevOps
 </p>
 
 <h3 align="left">Connect with me:</h3>
